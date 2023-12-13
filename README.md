@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E-PUBLIC/assets/23700365/9f4fde5e-0c70-4808-bc72-06a29a75d328)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-HEDT-4THGEN-X99-HASWELL-E-PUBLIC/assets/23700365/6230e2e2-a21c-4496-bda6-7061da672897)
+
 # Basic Info
 
 Note|Description
